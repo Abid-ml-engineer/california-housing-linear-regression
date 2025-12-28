@@ -69,7 +69,7 @@ The model demonstrates strong predictive performance, explaining approximately
 ---
 
 ## 👤 Author
-**Nick**  
+**ABID**  
 Aspiring AI & Machine Learning Engineer
 # california-housing-linear-regression
 End-to-end Linear Regression project using Azure Machine Learning on the California Housing dataset.
